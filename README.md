@@ -10,8 +10,8 @@ Hello! I'm Kartik. I'm a student at IIITM Gwalior and pursuing B.Tech in IT and 
 *   🖥️  See my portfolio at [Kartik Mishra](http://kartik-mishra.netlify.app/)
 *   ✉️  You can contact me at [kartik237@gmail.com](mailto:kartik237@gmail.com)### Skills 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON 
-                    </p>
+(https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+</p>
                     
                   ### Socials
                   
