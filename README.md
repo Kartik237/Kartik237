@@ -9,6 +9,10 @@ Hello! I'm Kartik. I'm a student at IIITM Gwalior and pursuing B.Tech in IT and 
 * 🌍  I'm based in Gwalior, Madhya Pradesh
 * 🖥️  See my portfolio at [Kartik Mishra](http://kartik-mishra.netlify.app/)
 * ✉️  You can contact me at [kartik237@gmail.com](mailto:kartik237@gmail.com)
+  
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Kartik237" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kartikmishra237" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### 🔭 **Technology Stack**
 
