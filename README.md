@@ -12,7 +12,7 @@ Hello! I'm Kartik. I'm a student at IIITM Gwalior and pursuing B.Tech in IT and 
   
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Kartik237" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kartikmishra237" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<a href="https://linkedin.com/in/kartikmishra237" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="rajat-maheshwari-b16603193" height="40" width="40" /></a>
 
 ### 🔭 **Technology Stack**
 
