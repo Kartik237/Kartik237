@@ -35,9 +35,4 @@ Hello! I'm Kartik. I'm a student at IIITM Gwalior and pursuing B.Tech in IT and 
 
 
 ## 📈 Stats
-<p align="center">
-<a href="https://github.com/Kartik237">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kartik237&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kartik237&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<a href="http://www.github.com/Kartik237"><img src="https://github-readme-stats.vercel.app/api?username=Kartik237&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kartik237's GitHub stats" /></a>
