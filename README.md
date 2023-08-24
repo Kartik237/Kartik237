@@ -10,13 +10,34 @@ Hello! I'm Kartik. I'm a student at IIITM Gwalior and pursuing B.Tech in IT and 
 * 🖥️  See my portfolio at [Kartik Mishra](http://kartik-mishra.netlify.app/)
 * ✉️  You can contact me at [kartik237@gmail.com](mailto:kartik237@gmail.com)
 
+### 🔭 **Technology Stack**
 
-### Socials
+#### **Languages**:
 
-<p align="left"> <a href="https://www.github.com/Kartik237" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kartikmishra237" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<img height=25 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
 
-### Badges
 
-<b>My GitHub Stats</b>
+#### **Frameworks, Platforms and Libraries**:
 
-<a href="http://www.github.com/Kartik237"><img src="https://github-readme-stats.vercel.app/api?username=Kartik237&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kartik237's GitHub stats" /></a>
+<img height=25 src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/bootstrap-%23404d59.svg?style=for-the-badge&logo=bootstrap&logoColor=%2361DAFB">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/tailwindcss-%23404d59.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/sass-%23404d59.svg?style=for-the-badge&logo=sass&logoColor=%2361DAFB">&nbsp;&nbsp;
+
+#### **Databases**:
+
+
+<img height=25 src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
+
+
+## 📈 Stats
+<p align="center">
+<a href="https://github.com/Kartik237">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kartik237&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kartik237&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
